@@ -84,7 +84,6 @@ AI-Study-Buddy/
 └── render.yaml           # Automated Blueprint Infrastructure Schema
 
 
----
 
 ## 👩‍💻 About the Developer
 
