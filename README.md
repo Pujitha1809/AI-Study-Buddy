@@ -82,7 +82,7 @@ AI-Study-Buddy/
 │   └── package.json
 │
 └── render.yaml           # Automated Blueprint Infrastructure Schema
-
+```
 ---
 
 ## 👩‍💻 About the Developer
