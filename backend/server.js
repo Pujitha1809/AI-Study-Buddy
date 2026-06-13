@@ -1,5 +1,5 @@
 require('dotenv').config();
-console.log("Loaded API Key Length:", process.env.GEMINI_API_KEY ? process.env.GEMINI_API_KEY.length : 0);
+console.log("Loaded API Key Length:", process.env.GOOGLE_API_KEY ? process.env.GOOGLE_API_KEY.length : 0);
 const express = require('express');
 const cors = require('cors');
 const apiRoutes = require('./routes/api');
