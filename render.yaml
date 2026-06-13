@@ -2,7 +2,7 @@ services:
   # Backend Web Service
   - type: web
     name: study-buddy-backend
-    env: node
+    runtime: node
     rootDir: backend
     buildCommand: npm install
     startCommand: node server.js
@@ -15,11 +15,12 @@ services:
         sync: false
 
   # Frontend Static Site
-  - type: static_site
+  - type: web
     name: study-buddy-frontend
+    runtime: static
     rootDir: frontend
     buildCommand: npm run build
-    publishDir: dist
+    staticPublishPath: dist
     envVars:
       - key: VITE_API_URL
         sync: false
