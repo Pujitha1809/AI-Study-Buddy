@@ -2,7 +2,7 @@
 
 [![React](https://img.shields.io/badge/Frontend-React%20%2F%20Vite-61dafb?style=flat-square&logo=react)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-339933?style=flat-square&logo=nodedotjs)](https://nodejs.org/)
-[![Gemini](https://img.shields.io/badge/AI%20Engine-Google%20Gemini%20Pro-4285F4?style=flat-square&logo=googlegemini)](https://ai.google.dev/)
+
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
 [![Render](https://img.shields.io/badge/Deployment-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://render.com/)
 
