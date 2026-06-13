@@ -82,3 +82,36 @@ AI-Study-Buddy/
 │   └── package.json
 │
 └── render.yaml           # Automated Blueprint Infrastructure Schema
+
+
+---
+
+## 👩‍💻 About the Developer
+
+**Pujitha Mamidishetty**  
+*Engineering Student & Software Engineering Intern*
+
+A passionate software engineer specializing in Full-Stack Web Development, Data Science, and Machine Learning. Backed by a consistent **CGPA of 9.0+** throughout the engineering curriculum, I love building intelligent, responsive systems that bridge modern user interfaces with advanced computational models.
+
+### 🏆 Engineering Highlights
+*   **Smart India Hackathon (SIH) 2024:** Selected in the prestigious internal university hackathon pool.
+*   **Mumbai Hacks:** Successfully shortlisted for Round 2 of the hackathon circuit.
+*   **Flipkart Runway:** Competitor and participant in the seasonal engineering challenge.
+*   **ACM Council:** Served as the dedicated Logistics Head, orchestrating tech community initiatives.
+
+### 🛠️ Core Competencies
+*   **Frontend Architecture:** React.js, Vite, Tailwind CSS, Component Lifecycle State Management
+*   **Backend & Data Services:** Node.js, Express, REST APIs, Token-Optimized Document Chunking Structures
+*   **Machine Learning & Vision:** Automated Computer Vision Pipelines, Custom Image Grayscale & Kernel Filtering Heuristics, Frame-Differencing Tracking
+
+---
+
+### 🌐 Connect With Me
+
+Let's build something brilliant together! Feel free to reach out or explore more of my work:
+
+*   **GitHub:** https://github.com/Pujitha1809
+*   **LinkedIn:** https://www.linkedin.com/in/pujitha-mamidishetty/
+*   **Portfolio Website:** https://pujitha-portfolio-rust.vercel.app/
+
+---
