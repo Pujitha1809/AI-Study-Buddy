@@ -83,34 +83,75 @@ AI-Study-Buddy/
 │
 └── render.yaml           # Automated Blueprint Infrastructure Schema
 
-
+---
 
 ## 👩‍💻 About the Developer
 
-**Pujitha Mamidishetty**  
-*Engineering Student & Software Engineering Intern*
+### Pujitha Mamidishetty
+**B.Tech Data Science Student | Full-Stack Developer | AI & ML Enthusiast**
 
-A passionate software engineer specializing in Full-Stack Web Development, Data Science, and Machine Learning. Backed by a consistent **CGPA of 9.0+** throughout the engineering curriculum, I love building intelligent, responsive systems that bridge modern user interfaces with advanced computational models.
+I am a passionate engineering student with a strong interest in building intelligent software systems that combine modern web technologies with Artificial Intelligence. My experience spans Full-Stack Development, Data Science, Machine Learning, and AI-powered applications, with a focus on creating impactful, user-centric solutions.
 
-### 🏆 Engineering Highlights
-*   **Smart India Hackathon (SIH) 2024:** Selected in the prestigious internal university hackathon pool.
-*   **Mumbai Hacks:** Successfully shortlisted for Round 2 of the hackathon circuit.
-*   **Flipkart Runway:** Competitor and participant in the seasonal engineering challenge.
-*   **ACM Council:** Served as the dedicated Logistics Head, orchestrating tech community initiatives.
+Throughout my academic journey, I have maintained a strong academic record while actively participating in hackathons, technical communities, and software development projects that solve real-world problems.
 
-### 🛠️ Core Competencies
-*   **Frontend Architecture:** React.js, Vite, Tailwind CSS, Component Lifecycle State Management
-*   **Backend & Data Services:** Node.js, Express, REST APIs, Token-Optimized Document Chunking Structures
-*   **Machine Learning & Vision:** Automated Computer Vision Pipelines, Custom Image Grayscale & Kernel Filtering Heuristics, Frame-Differencing Tracking
+### 🏆 Achievements & Leadership
 
----
+- 🎯 Maintained a **CGPA of 9.0+** throughout engineering.
+- 🚀 Selected in the **Smart India Hackathon (SIH) 2024** internal university pool.
+- 💡 Shortlisted for **Round 2 of Mumbai Hacks**.
+- 🛍️ Participant in **Flipkart Runway**.
+- 👥 Served as **Logistics Head of ACM Council**, organizing technical events and community initiatives.
+- 💻 Built multiple projects across AI, Machine Learning, Computer Vision, and Full-Stack Development.
+
+### 🛠️ Technical Skills
+
+#### Programming Languages
+- Java
+- Python
+- JavaScript
+- SQL
+
+#### Frontend Development
+- React.js
+- Vite
+- Tailwind CSS
+- HTML5
+- CSS3
+
+#### Backend Development
+- Node.js
+- Express.js
+- REST APIs
+
+#### Data Science & AI
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Google Gemini API
+- Data Analysis
+
+#### Databases & Tools
+- MySQL
+- Git
+- GitHub
+- Postman
+- Render
+- Vercel
+
+### 🌟 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Full-Stack Web Development
+- Generative AI Applications
+- Data Science & Analytics
+- Computer Vision
+- Software Engineering
 
 ### 🌐 Connect With Me
 
-Let's build something brilliant together! Feel free to reach out or explore more of my work:
+[![GitHub](https://img.shields.io/badge/GitHub-Pujitha1809-181717?style=for-the-badge&logo=github)](https://github.com/Pujitha1809)
 
-*   **GitHub:** https://github.com/Pujitha1809
-*   **LinkedIn:** https://www.linkedin.com/in/pujitha-mamidishetty/
-*   **Portfolio Website:** https://pujitha-portfolio-rust.vercel.app/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pujitha%20Mamidishetty-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pujitha-mamidishetty/)
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF7139?style=for-the-badge&logo=google-chrome)](https://pujitha-portfolio-rust.vercel.app/)
