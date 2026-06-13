@@ -1,23 +1,26 @@
 services:
-  # Backend Node.js Web Service
+  # Backend Web Service
   - type: web
     name: study-buddy-backend
     env: node
-    buildCommand: "cd backend && npm install"
-    startCommand: "cd backend && node server.js"
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: node server.js
     envVars:
+      - key: PORT
+        value: 5000
       - key: GOOGLE_API_KEY
         sync: false
-    
-  # Frontend Static Site (React/Vite)
+      - key: FRONTEND_URL
+        sync: false
+
+  # Frontend Static Site
   - type: web
     name: study-buddy-frontend
     env: static
-    buildCommand: "cd frontend && npm install && npm run build"
-    staticPublishPath: "./frontend/dist"
+    rootDir: frontend
+    buildCommand: npm run build
+    publishDir: dist
     envVars:
       - key: VITE_API_URL
-        fromService:
-          type: web
-          name: study-buddy-backend
-          property: url
+        sync: false
