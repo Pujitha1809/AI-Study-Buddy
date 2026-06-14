@@ -84,74 +84,24 @@ AI-Study-Buddy/
 └── render.yaml           # Automated Blueprint Infrastructure Schema
 ```
 ---
-
 ## 👩‍💻 About the Developer
 
 ### Pujitha Mamidishetty
-**B.Tech Data Science Student | Full-Stack Developer | AI & ML Enthusiast**
 
-I am a passionate engineering student with a strong interest in building intelligent software systems that combine modern web technologies with Artificial Intelligence. My experience spans Full-Stack Development, Data Science, Machine Learning, and AI-powered applications, with a focus on creating impactful, user-centric solutions.
+**B.Tech Data Science Student | ML Engineer | Computer Vision & Full-Stack Developer**
 
-Throughout my academic journey, I have maintained a strong academic record while actively participating in hackathons, technical communities, and software development projects that solve real-world problems.
-
-### 🏆 Achievements & Leadership
-
-- 🎯 Maintained a **CGPA of 9.0+** throughout engineering.
-- 🚀 Selected in the **Smart India Hackathon (SIH) 2024** internal university pool.
-- 💡 Shortlisted for **Round 2 of Mumbai Hacks**.
-- 🛍️ Participant in **Flipkart Runway**.
-- 👥 Served as **Logistics Head of ACM Council**, organizing technical events and community initiatives.
-- 💻 Built multiple projects across AI, Machine Learning, Computer Vision, and Full-Stack Development.
+Final-year B.Tech Data Science student (CGPA: 8.67) with hands-on experience across
+deep learning, classical computer vision, NLP, and full-stack development. Built and
+deployed multiple end-to-end ML projects, including a real-time ASL translator (95.99%
+CNN accuracy) and a live traffic analytics system using classical CV techniques.
 
 ### 🛠️ Technical Skills
 
-#### Programming Languages
-- Java
-- Python
-- JavaScript
-- SQL
-
-#### Frontend Development
-- React.js
-- Vite
-- Tailwind CSS
-- HTML5
-- CSS3
-
-#### Backend Development
-- Node.js
-- Express.js
-- REST APIs
-
-#### Data Science & AI
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG)
-- Google Gemini API
-- Data Analysis
-
-#### Databases & Tools
-- MySQL
-- Git
-- GitHub
-- Postman
-- Render
-- Vercel
-
-### 🌟 Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- Full-Stack Web Development
-- Generative AI Applications
-- Data Science & Analytics
-- Computer Vision
-- Software Engineering
+**Languages:** Python, C++, SQL, JavaScript, HTML5, CSS3
+**ML & AI:** TensorFlow, Keras, Scikit-learn, CNNs, RAG, Google Gemini API, OpenCV, MediaPipe
+**Web & Backend:** React, Node.js, Express, Flask, REST APIs, Tailwind CSS
+**Tools:** Git, GitHub, Render, Vercel, Postman
 
 ### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pujitha1809-181717?style=for-the-badge&logo=github)](https://github.com/Pujitha1809)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pujitha%20Mamidishetty-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pujitha-mamidishetty/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF7139?style=for-the-badge&logo=google-chrome)](https://pujitha-portfolio-rust.vercel.app/)
+[GitHub](https://github.com/Pujitha1809) · [LinkedIn](https://www.linkedin.com/in/pujitha-mamidishetty/) · [Portfolio](https://pujitha-portfolio-rust.vercel.app/)
