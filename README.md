@@ -58,7 +58,7 @@ An advanced, responsive full-stack **Retrieval-Augmented Generation (RAG)** appl
 ### Backend (API Gateway & Engine)
 *   **Node.js & Express:** Production-scale server runtime routing asynchronous network requests across localized controller groups.
 *   **Retrieval-Augmented Generation (RAG):** Custom structural token segmentation mechanics slicing material strings before injecting matching reference payloads.
-*   **Google Gemini Pro Integration:** Direct orchestration layer interacting natively with Google’s generative AI ecosystem via structured environment variable masks.
+
 
 ---
 
